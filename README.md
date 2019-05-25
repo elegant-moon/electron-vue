@@ -2,7 +2,8 @@
 
 #### Build Setup
 
-``` bash
+<img src = "https://github.com/webninja1992/electron-vue/blob/master/Untitled.png"/>
+
 # Install the latest Node
 https://nodejs.org/en/
 
